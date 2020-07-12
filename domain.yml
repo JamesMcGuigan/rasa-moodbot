@@ -1,3 +1,11 @@
+actions:
+  - utter_cheer_up
+  - utter_did_that_help
+  - utter_goodbye
+  - utter_greet
+  - utter_happy
+  - utter_iamabot
+
 intents:
   - greet
   - goodbye

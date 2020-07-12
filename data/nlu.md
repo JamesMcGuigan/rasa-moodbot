@@ -5,6 +5,7 @@
 - good morning
 - good evening
 - hey there
+- Hello
 
 ## intent:goodbye
 - bye
@@ -36,6 +37,7 @@
 - I am feeling very good
 - I am great
 - I'm good
+- I am happy
 
 ## intent:mood_unhappy
 - sad
@@ -48,9 +50,11 @@
 - not very good
 - extremely sad
 - so sad
+- i am sad
 
 ## intent:bot_challenge
 - are you a bot?
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+- who are you?
